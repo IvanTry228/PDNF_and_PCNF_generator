@@ -9,7 +9,9 @@ exceeds the required number, the correct quantity is set using the padding (zero
 You can quickly test the code on an online compiler, example here:
 https://www.onlinegdb.com/online_c++_compiler
 
+
 ////////////////////////////////////////
+
 rus
 «Совершенная дизъюнктивная нормальная форма (СДНФ) и совершенная конъюнктивная нормальная форма (СКНФ) для булевых функций».
 Функционал:
